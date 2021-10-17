@@ -39,7 +39,7 @@ if (!empty($dados['btnLogin'])) {
   $result_email->execute();
 
 
-  $row_email = $result_email->fetch(FETCH_ASSOC);
+  $row_email = $result_email->fetch(PDO::FETCH_ASSOC);
   var_dump($row_email);
   
 }

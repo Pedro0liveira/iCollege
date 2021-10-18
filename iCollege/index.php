@@ -6,7 +6,7 @@
         <link rel="icon" href="imagens\favicon.ico">
         <title> iCollege - Home </title>
         
-        <!--<link rel="stylesheet" href="estilos.css">-->
+        <link rel="stylesheet" href="estilos.css">
     </head>
     <body>
         <div class="div1"> 
